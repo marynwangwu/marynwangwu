@@ -1,19 +1,19 @@
-- 👋 **Hi, I’m Mary Nwangwu**
+👋 **Hi, I’m Mary Nwangwu**
   
-- 👀 I’m interested in ...
+👀 I’m interested in ...
   - Recommendation Algorithms
   - Trend Analyses
   - Behaviorial Analyses
-- 📊 Industries of interest:
+📊 Industries of interest:
   - Media and Communications
   - Healthcare
-- 🪩 Outside of work, I enjoy ...
+🪩 Outside of work, I enjoy ...
   - Listening to True Crime Podcasts 🔎
   - Baking 🍞
   - Going to concerts 🎸
   - Reading 📚
 
-- 📫 Connect with Me 📫
+📫 Connect with Me 📫
   - [LinkedIn
 ](https://www.linkedin.com/in/mary-nwangwu)
 <!---
