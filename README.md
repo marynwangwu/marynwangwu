@@ -1,4 +1,5 @@
-👋 **Hi, I’m Mary Nwangwu**
+<h1 align="center">Hi 👋, I'm Mary Nwangwu</h1>
+<h3 align="center">A passionate data scientist from Los Angeles, California</h3>
   
 👀 I’m interested in ...
   - Recommendation Algorithms
