@@ -18,6 +18,9 @@
 📫 Connect with Me 📫
   - [LinkedIn
 ](https://www.linkedin.com/in/mary-nwangwu)
+  - [Gmail
+](maryc.nwangwu@gmail.com)
+
 <!---
 marynwangwu/marynwangwu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
