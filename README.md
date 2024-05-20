@@ -1,5 +1,5 @@
 - 👋 **Hi, I’m Mary Nwangwu**
-- 
+  
 - 👀 I’m interested in ...
   - Recommendation Algorithms
   - Trend Analyses
