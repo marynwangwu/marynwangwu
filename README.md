@@ -4,9 +4,11 @@
   - Recommendation Algorithms
   - Trend Analyses
   - Behaviorial Analyses
+    
 📊 Industries of interest:
   - Media and Communications
   - Healthcare
+    
 🪩 Outside of work, I enjoy ...
   - Listening to True Crime Podcasts 🔎
   - Baking 🍞
